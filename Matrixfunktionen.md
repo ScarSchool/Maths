@@ -1,12 +1,20 @@
 # Matrixfunktionen
+#### tags: `Maths` `Matrix`
+
+Dieses Dokument behandelt Matrixfunktionen im 2 Dimensionalen Raum.
+
+Für weitere Informationen:
+https://www.grund-wissen.de/mathematik/lineare-algebra-und-analytische-geometrie/matrizen.html
+https://www.cg.tuwien.ac.at/courses/CG1/textblaetter/02%20Geometrische%20Transformationen.pdf
 
 ## Grundprinzipien
 
-Für Translationen in Matrixschreibweise verwendet man homogene koordinaten.
+Für Transformationen in Matrixschreibweise verwendet man homogene koordinaten.
 Das heißt: Jedem Punkt wird eine zusätzliche Koordinate "h" zugeordnet.
 Der Punkt (x,y) würde dadurch als (x,y,h) angeschrieben werden, wobei h meist den Wert 1 annimmt.
 
 ### Matrix-Vektor Produkt
+Hierfür muss die "Matrixbreite" mit der "Vektorhöhe" übereinstimmen
 
 $$
 M :=
@@ -19,7 +27,7 @@ M :=
 	\right);
 \overrightarrow t :=
 	\left(
-		\begin{matrix} 
+		\begin{matrix}  
         x \\ y \\ h \\
         \end{matrix}
 	\right)
@@ -29,9 +37,9 @@ $$
 M\cdot \overrightarrow t = 
 \left(
     \begin{matrix}
-    a * x+ a^2 * y + a^3 * z \\
-    b * x+ b^2 * y + b^3 * z \\
-    c * x+ c^2 * y + c^3 * z \\
+    a * x+ a^2 * y + a^3 * h \\
+    b * x+ b^2 * y + b^3 * h \\
+    c * x+ c^2 * y + c^3 * h \\
     \end{matrix}
     \right)
 $$
@@ -47,7 +55,10 @@ $$
 
 ### Translationsmatrix
 
-Verschiebt einen bestimmten Vektor / Punkt A um einen Vektor t
+Verschiebt einen bestimmten Ortsvektor A um einen Vektor t
+<iframe src="https://www.geogebra.org/calculator/v5f22hmx?embed" width="800" height="400" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
+
+$t = translationsvektor; A = Ausgangspunkt; A' = Punkt nach translation$
 
 > Translationsmatrixvariablen
 
@@ -77,7 +88,7 @@ $$
 > Anwendung der Translation
 
 $$
-A' := M\cdot A
+A' := M_{\overrightarrow t}\cdot A
 $$
 
 > Aufgelöste Translation
@@ -133,9 +144,13 @@ A =
     \right) ;
 $$
 
+
+<iframe src="https://www.geogebra.org/calculator/qettnmbg?embed" width="800" height="400" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
+
+$M = Ursprung; A = Ausgangspunkt; A' = Punkt nach angewandter Drehung$
 #### Drehung um Ursprung
 
-Dreht Vektor oder Punkt um bestimmten Winkel an Ursprung ( 0 | 0 )
+Dreht Ortsvektor um bestimmten Winkel $\alpha$ an Ursprung ( 0 | 0 )
 
 > Anwendung der Drehung
 
@@ -144,8 +159,8 @@ A' := D(\alpha) * A
 $$
 
 #### Drehung um Drehungspunkt
-
-Dreht Vektor oder Punkt um bestimmten Winkel an Drehungspunkt M
+ 
+Dreht Ortsvektor um bestimmten Winkel $\alpha$ an Drehungspunkt M
 
 > Zusätzliche Drehungsmatrixvariablen für Drehungspunkt M
 
@@ -192,13 +207,9 @@ $$
 
 Spiegelt Vektor oder Punkt um die x- oder y-Achse
 
-$$
-"A = Spiegelung\ an\ x-Achse" \\
-"B = Spiegelung\ an\ y-Achse"
-$$
+<iframe src="https://www.geogebra.org/calculator/japetadg?embed" width="800" height="400" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
 
-<iframe src="https://www.desmos.com/calculator/m33zy9me0d?embed" width="100%" height="400px" frameborder="0"></iframe>
-
+$A = Spiegelung\ an\ x-Achse; B = Spiegelung\ an\ y-Achse$
 
 > Allgemeine Spiegelungsmatrixvariablen
 
@@ -303,7 +314,11 @@ $$
 
 ### Skalierungsmatrix
 
-Verlängert einen Ortsvektor um einen Skalierungswert.
+> KOMMT NICHT ZUR SCHULARBEIT [color=red]
+
+Verlängert einen Ortsvektor um einen Skalierungswert. 
+
+<iframe src="https://www.geogebra.org/calculator/dhpb7ptb?embed" width="800" height="400" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
 
 > Skalierungsmatrix variablen
 
