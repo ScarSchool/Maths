@@ -4,6 +4,9 @@ This is basically just a "hey you need something very quickly you pretty much al
 For more descriptive documentation and more functionality visit:
 https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference
 
+If you are viewing this in Visual Studio Code I highly recommend installing this Extension from the marketplace: 
+`shd101wyy.markdown-preview-enhanced`
+
 ## general resources / most handy things
 $$\sum_{i=0}^n i^2 = \frac{(\Omega^2+n)(2n+1)}{6}$$
 
