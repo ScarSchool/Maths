@@ -2,9 +2,9 @@
 
 branch structure:
 
-master\\
-|-- mitschrift/[mitschriftname]\\
-|-- explikation/[explikationsgebiet]\\
+master<br />
+|-- mitschrift/[mitschriftname]<br />
+|-- explikation/[explikationsgebiet]<br />
 
 Explikationen sind detailierte Erklärungen zu einem Gebiet.
 Mitschriften sind... naja Mitschriften einer Stunde halt.
@@ -16,7 +16,7 @@ If you dont remember certain basics of MathJax go take a look at MathJaxIntro.md
 Currently available thingys:
 
 ## 5BHIF
-[Matrixfunktionen](./5BHIF/Matrixfunktionen.md)\\
-[Permutationen](./5BHIF/Permutationen.md)\\
-[Wahrscheinlichkeitsrechnung](./5BHIF/Wahrscheinlichkeitsrechung.md)\\
+[Matrixfunktionen](./5BHIF/Matrixfunktionen.md)<br />
+[Permutationen](./5BHIF/Permutationen.md)<br />
+[Wahrscheinlichkeitsrechnung](./5BHIF/Wahrscheinlichkeitsrechung.md)<br />
 [Winkelfunktionen](./5BHIF/Winkelfunktionen.md)
