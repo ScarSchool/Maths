@@ -20,3 +20,4 @@ Currently available thingys:
 [Wahrscheinlichkeitsrechnung](./Explikationen/Wahrscheinlichkeitsrechung.md)<br />
 [Winkelfunktionen](./Explikationen/Winkelfunktionen.md)
 [Differentialrechnung](./Explikationen/Differentialrechnung.md)
+[Winkelfunktionen](./Explikationen/Winkelfunktionen.md)
