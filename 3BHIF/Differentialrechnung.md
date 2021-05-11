@@ -117,3 +117,8 @@ $$
 $$
     y' = 2^x\cdot ln(2) \cdot 1  
 $$
+
+## Differentialgleichung
+Kommen in einer Gleichung Funktionen $f(x)$ und ihre Ableitungen $f'(x), f''(x), f'''(x)$ vor, so spricht man von einer Differentialgleichung.
+
+Differentialgleichungen entstehen, wenn man den Zusammehang einer Funktion und deren Änderungsraten als Gleichung formuliert.
