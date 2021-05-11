@@ -22,6 +22,7 @@ Currently available thingys:
 [Winkelfunktionen](./5BHIF/Winkelfunktionen.md)
 
 ## 4BHIF
-[Differnzialrechnung](./4BHIF/Differentialrechnung.md) (SUPER WIP)
+[Differentialgleichung](./3BHIF/Differentialrechnung.md) (SUPER WIP)
 
 ## 3BHIF
+[Differentialrechnung](./3BHIF/Differentialrechnung.md)
