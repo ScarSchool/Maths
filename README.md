@@ -15,14 +15,8 @@ If you dont remember certain basics of MathJax go take a look at MathJaxIntro.md
 
 Currently available thingys:
 
-## 5BHIF
-[Matrixfunktionen](./5BHIF/Matrixfunktionen.md)<br />
-[Permutationen](./5BHIF/Permutationen.md)<br />
-[Wahrscheinlichkeitsrechnung](./5BHIF/Wahrscheinlichkeitsrechung.md)<br />
-[Winkelfunktionen](./5BHIF/Winkelfunktionen.md)
-
-## 4BHIF
-[Differentialgleichung](./3BHIF/Differentialrechnung.md#differentialgleichung) (SUPER WIP)
-
-## 3BHIF
-[Differentialrechnung](./3BHIF/Differentialrechnung.md)
+[Matrixfunktionen](./Explikationen/Matrixfunktionen.md)<br />
+[Permutationen](./Explikationen/Permutationen.md)<br />
+[Wahrscheinlichkeitsrechnung](./Explikationen/Wahrscheinlichkeitsrechung.md)<br />
+[Winkelfunktionen](./Explikationen/Winkelfunktionen.md)
+[Differentialrechnung](./Explikationen/Differentialrechnung.md)
