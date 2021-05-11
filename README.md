@@ -20,3 +20,8 @@ Currently available thingys:
 [Permutationen](./5BHIF/Permutationen.md)<br />
 [Wahrscheinlichkeitsrechnung](./5BHIF/Wahrscheinlichkeitsrechung.md)<br />
 [Winkelfunktionen](./5BHIF/Winkelfunktionen.md)
+
+## 4BHIF
+[Differnzialrechnung](./4BHIF/Differentialrechnung.md) (SUPER WIP)
+
+## 3BHIF
