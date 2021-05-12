@@ -1,4 +1,5 @@
 # Winkelfunktonen / Vermessungsaufgaben
+###### tags: `Maths`
 ## Fläche eines Dreiecks
 ### Herron Formel
 Ist die Go-To Formel für ein Algemeines Dreieck. Die Formel ist trügerisch schwer aber auf genaueren Blick ist sie wirklich simpel.

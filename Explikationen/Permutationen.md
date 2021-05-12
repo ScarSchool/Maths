@@ -1,5 +1,5 @@
 # Permutationen
-#### tags: `Maths` `Probability`
+###### tags: `Maths` `Probability`
 Dieses Dokument behandelt nur die ultimativen basics des Permutations-Themas
 Es umfasst dennoch alle im Unterricht besprochenen Themen.
 

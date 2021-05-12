@@ -1,6 +1,6 @@
 
 # Differentialrechnung
-#### tags: `Maths` `differential calculation`
+###### tags: `Maths` `differential calculation`
 ## Grundsätzliches
 Das Ziel der Differentialrechnung ist es, lokale Veränderungen in Funktionen darstellen und bemessen zu können.
 > Als Beispiel ist die erste Ableitung einer Funktion die "Steigung" an einem gewissen Punkt, ist diese Steigung 0, gibt es an diesem Punkt keine Veränderung, weshalb die untersuchte Stelle als 'Extremum' gilt (Mehr dazu später)

@@ -1,5 +1,5 @@
 # Wahrscheinlichkeitsrechnung
-#### tags: `Maths` `Probability`
+###### tags: `Maths` `Probability`
 
 
 ## Wiederholung Kombinatorik

@@ -20,3 +20,4 @@ Currently available thingys:
 [Wahrscheinlichkeitsrechnung](./Explikationen/Wahrscheinlichkeitsrechung.md) [(click here for Hedgedoc)](https://demo.hedgedoc.org/s/a5iYvQAuS)<br />
 [Winkelfunktionen](./Explikationen/Winkelfunktionen.md) [(click here for Hedgedoc)](https://demo.hedgedoc.org/BUnxMF1kSouRtmbcrUO94w)<br />
 [Differentialrechnung](./Explikationen/Differentialrechnung.md) [(click here for Hedgedoc)](https://demo.hedgedoc.org/s/kJPo7QV5V)<br />
+[Folgen und Reihen](./Explikationen/Folgen%20und%20Reihen.md) [(click here for Hedgedoc)](https://demo.hedgedoc.org/s/5LemVUm2B)<br />
